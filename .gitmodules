@@ -1,0 +1,6 @@
+[submodule "MathSharp"]
+	path = MathSharp
+	url = git@github.com:Svengali/MathSharp.git
+[submodule "geometry3Sharp"]
+	path = geometry3Sharp
+	url = git@github.com:Svengali/geometry3Sharp.git
